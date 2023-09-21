@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @TripPyPoly
-- 👀 I’m interested in Data sciences
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on making a working bot
-- 📫 How to reach me dm me via discord TripPy_Poly#0777
+Hi im trippy 
+studying comupter engineerings
 
 <!---
 TripPyPoly/TripPyPoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
